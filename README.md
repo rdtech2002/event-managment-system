@@ -1,4 +1,4 @@
 # event-managment-system
-Event Managment System
-University Project by Rahul Dutta & Tanmoy Mondal
-MAKAUT//WB
+Event Managment System <br/>
+University Project by Rahul Dutta & Tanmoy Mondal <br/>
+MAKAUT, WB
